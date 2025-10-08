@@ -1,5 +1,53 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+html{
+  background-image:url(assets/y-so-serious.png); 
+  background-color: #0f0e17;
+  font-family: Tahoma, sans-serif;
+  font-size: 16px;
+  color: #a7a9be;
+}
+
+h1{
+  font-size: 3.5rem;
+  color: #fffffe;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2{
+  font-size: 1.5rem;
+  color: #f25f4c;
+  font-weight: bold;
+}
+
+li{
+  line-height: 2.5;
+}
+
+a:visited{
+  color: #f25f4c;
+}
+
+img{ 
+opacity:.7;
+height:500px;
+width: auto;
+}
+
+ul li{
+list-style-type:square;
+}
 
 
+ol li{
+list-style-type:upper-roman;
+
+}
 
 
 /* no touchy */
